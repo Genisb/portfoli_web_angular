@@ -1,0 +1,35 @@
+{
+  "PROJECTS": {
+    "TITLE": "Cursos i Certificacions",
+    "WEB_DEVELOPMENT": "Desenvolupament Web",
+    "SQL_DB": "Gestión de SQL y Bases de Datos",
+    "PROGRAMMING_LANGUAGES": "Lenguajes de Programación",
+    "OTHERS": "Otros"
+  },
+  "HOME": {
+    "SOBRE_MI":"Sobre mi",
+    "EXPERIENCIA":"Cursos i certificacions",
+    "PROJECTES":"Projectes"
+  },
+  "PROFILE":{
+    "DESENVOLUPADOR_WEB":"Fullstack Developer",
+    "DESCRIPCIO_PERSONAL":"El meu stack principal és de Laravel, Angular i Tailwind",
+    "EXPERIENCIA":"Experiència",
+    "EXPERIENCIA_SOFTNEOS":"Desenvolupar/millorar aplicacions tant en el frontend com en el backend.<br>Millora i manteniment d'aplicacions Android i iOS.<br>Desenvolupament de llocs web amb WordPress.",
+    "EXPERIENCIA_TENNIS_TAULA":"Entrenador de Tennis Taula",
+    "DESC_EXP_TT":"Entrenar gent de totes les edats en aquest esport d'una manera entretinguda i dinàmica.",
+    "AUXILIAR_ADMINISTRATIVO": "Assistent administratiu en una administració de loteria",
+    "ATTEND_CUSTOMERS":"Atendre adequadament els clients, proporcionant-los els números/bitllets desitjats.",
+    "PRACTICAS_MEDIO":"Pràctiques de grau mitjà al Consell Comarcal d'Osona",
+    "EXPERIENCIA_MEDIO":"Realitzar tasques bàsiques de helpdesk, preparar PCs, instal·lar monitors i solucionar els problemes informàtics dels empleats.<br>Configurar SharePoint i altres serveis d'Office 365.",
+    "DESCRIPCIO_CATSKILLS":"1r lloc en la categoria de Desenvolupament d'Aplicacions Web.<br>La competició consistia en crear una aplicació web per a visualitzar taules i gràfics amb l'estat dels embassaments a Catalunya utilitzant informació obtinguda a través d'una API del govern.",
+    "DESCRIPCIO_SPAINSKILLS":"3ra posició en la categoria de Desenvolupament Web.<br>La prova consistia en desenvolupar una aplicació web per gestionar el cens i events de les ciutats d'un país. I un joc anomenat 'El Tranco'<br>"
+  },
+  "APLICACIONES" : {
+    "PROJECTS" : "Projectes",
+    "TTI_MANAGER_TITLE" : "Programa per gestionar el TTI (Tennis Taula Intercomarcal)",
+    "TTI_MANAGER_BODY" : "El programa permet gestionar tot el que està relacionat amb la lliga<ul><li>- Gestió d'usuaris, jugadors i equips.</li><li>- Exportar els rankings d'equips i jugador en format xlsx.</li><li>- Veure l'historial de partits d'un jugador o equip.</li><li></ul>",
+    "REGISTRATION_MANAGER_TITLE" : "Gestor d'inscripcions",
+    "REGISTRATION_MANAGER_BODY" : "Programa per gestionar les inscripcions d'un torneig de Tennis Taula que organitza el meu club."
+  }
+}
