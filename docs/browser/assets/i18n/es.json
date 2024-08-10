@@ -1,0 +1,36 @@
+{
+  "PROJECTS": {
+    "TITLE": "Cursos y Certificaciones",
+    "WEB_DEVELOPMENT": "Desarrollo Web",
+    "SQL_DB": "Gestión de SQL y Bases de Datos",
+    "PROGRAMMING_LANGUAGES": "Lenguajes de Programación",
+    "OTHERS": "Otros",
+    "SOBRE_MI":"Sobre mi"
+  },
+  "HOME": {
+    "SOBRE_MI":"Sobre mi",
+    "EXPERIENCIA":"Cursos y certificaciones",
+    "PROJECTES":"Proyectos"
+  },
+  "PROFILE":{
+    "DESENVOLUPADOR_WEB":"Fullstack Developer",
+    "DESCRIPCIO_PERSONAL":"Mi stack principal es de Laravel, Angular y Tailwind",
+    "EXPERIENCIA":"Experiencia",
+    "EXPERIENCIA_SOFTNEOS":"Desarrollar/mejorar aplicaciones tanto en el frontend como en el backend.<br>Mejora y mantenimiento de aplicaciones Android y iOS.<br>Desarrollo de sitios web con WordPress.",
+    "EXPERIENCIA_TENNIS_TAULA":"Entrenador de Tenis de mesa",
+    "DESC_EXP_TT":"Entrenar a gente de todas las edades en este deporte de una manera entretenida y dinámica.",
+    "AUXILIAR_ADMINISTRATIVO": "Auxiliar administrativo en una administración de loteria",
+    "ATTEND_CUSTOMERS":"Atender adecuadamente a los clientes, proporcionándoles los números/boletos deseados.",
+    "PRACTICAS_MEDIO":"Prácticas de nivel medio en el Consejo Comarcal de Osona",
+    "EXPERIENCIA_MEDIO":"Realizar tareas básicas de helpdesk, preparar PCs, instalar monitores y solucionar los problemas informáticos de los empleados.<br>Configurar SharePoint y otros servicios de Office 365.",
+    "DESCRIPCIO_CATSKILLS":"1er lugar en la categoría de Desarrollo de Aplicaciones Web.<br>La competencia consistía en crear una aplicación web para visualizar tablas y gráficos con el estado de los embalses en Cataluña utilizando información obtenida a través de una API del gobierno.",
+    "DESCRIPCIO_SPAINSKILLS":"3rd place in the Web Development category.<br>La prueba consistía en desarrollar una aplicación para gestionar el censo y los eventos de las ciudades de un país, y un juego llamado 'El Tranco'.<br>Para completar la prueba, utilicé tecnologías como Laravel 11, Angular 17, Bootstrap y JavaScript."
+  },
+  "APLICACIONES" : {
+    "PROJECTS" : "Proyecto",
+    "TTI_MANAGER_TITLE" : "Aplicación para gestionar el TTI(Tennis Taula Intercomarcal)",
+    "TTI_MANAGER_BODY" : "El programa permite gestionar todo lo que esta relacionado con la liga:<ul><li>- Gestión de usuarios, jugadores y equipos.</li><li>- Exportar los rankings de jugadores y equipos en formato xlsx.</li><li>- Ver el historial de partidos de un jugador o equipo.</li></ul>",
+    "REGISTRATION_MANAGER_TITLE" : "Gestor de inscripciones",
+    "REGISTRATION_MANAGER_BODY" : "Programa para gestionar las inscripciones de un torneo de Tenis de Mesa organizado por mi club."
+  }
+}

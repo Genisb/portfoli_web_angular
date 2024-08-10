@@ -1,0 +1,29 @@
+<nav class="bg-gray-800 p-4">
+  <div class="container mx-auto flex justify-between items-center">
+      <div class="flex items-center">
+          <a routerLink="/" class="text-white font-bold text-lg">Genís Berengueras Sentmartí</a>
+      </div>
+      <div class="hidden md:flex md:items-center">
+          <a routerLink="/" class="text-white mx-4">{{ 'HOME.SOBRE_MI' | translate}}</a>
+          <a routerLink="experiencia" class="text-white mx-4">{{ 'HOME.EXPERIENCIA' | translate }}</a>
+          <a (click)="switchLanguage('ca')" class="text-black mx-4 bg-yellow-400 p-1 rounded-2xl" style="cursor: pointer;">Català</a>
+          <a (click)="switchLanguage('en')" class="text-black mx-4 bg-yellow-400 p-1 rounded-2xl" style="cursor: pointer;">English</a>
+          <a (click)="switchLanguage('es')" class="text-black mx-4 bg-yellow-400 p-1 rounded-2xl" style="cursor: pointer;">Español</a>
+      </div>
+      <div class="md:hidden">
+        <button id="menu-toggle" class="focus:outline-none" (click)="toggleMobileMenu()">
+            <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+        </button>
+      </div>
+  </div>
+  <div id="mobile-menu" [class.hidden]="!isMobileMenuOpen" class="md:hidden transition-all duration-1000 ease-in-out">
+      <div class="flex flex-col items-center">
+          <a routerLink="/" class="text-white my-2">{{ 'SOBRE_MI' | translate}}</a>
+          <a routerLink="experiencia" class="text-white my-2">{{ 'HOME.EXPERIENCIA' | translate }}</a>
+      </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>

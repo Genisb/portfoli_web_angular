@@ -1,0 +1,36 @@
+{
+  "PROJECTS": {
+    "TITLE": "Courses and Certifications",
+    "WEB_DEVELOPMENT": "Web Development",
+    "SQL_DB": "SQL and Database Management",
+    "PROGRAMMING_LANGUAGES": "Programming Languages",
+    "OTHERS": "Others",
+    "SOBRE_MI":"Sobre mi"
+  },
+  "HOME": {
+    "SOBRE_MI":"About me",
+    "EXPERIENCIA":"Courses and certifications",
+    "PROJECTES":"Projects"
+  },
+  "PROFILE":{
+    "DESENVOLUPADOR_WEB":"Fullstack Developer",
+    "DESCRIPCIO_PERSONAL":"My main stack is Laravel, Angular and Tailwind",
+    "EXPERIENCIA":"Experience",
+    "EXPERIENCIA_SOFTNEOS":"Develop/improve applications both on the frontend and backend.<br>Enhancement and maintenance of Android and iOS applications.<br>Development of websites with WordPress.",
+    "EXPERIENCIA_TENNIS_TAULA":"Table Tennis Coach",
+    "DESC_EXP_TT":"Train people of all ages in this sport in an entertaining and dynamic way.",
+    "AUXILIAR_ADMINISTRATIVO": "Administrative assistant in a lottery administration",
+    "ATTEND_CUSTOMERS":"Attend to customers appropriately, providing them with the desired numbers/tickets.",
+    "PRACTICAS_MEDIO":"Medium-level internship at the Osona Regional Council",
+    "EXPERIENCIA_MEDIO":"Perform basic helpdesk tasks, prepare PCs, install monitors, and solve employees' IT problems.<br>Configure SharePoint and other Office 365 services.",
+    "DESCRIPCIO_CATSKILLS":"1st place in the Web Application Development category.<br> The competition consisted of creating a web application to view tables and graphs with the status of reservoirs in Catalonia using information obtained through an API from the government.",
+    "DESCRIPCIO_SPAINSKILLS":"3rd place in the Web Development category.<br>The test consisted of developing an application to manage the census and events of the cities of a country, and a game called 'El Tranco'.<br>To complete the task, I used technologies such as Laravel 11, Angular 17, Bootstrap, and JavaScript."
+  },
+  "APLICACIONES" : {
+    "PROJECTS" : "Projects",
+    "TTI_MANAGER_TITLE" : "Program to manage TTI (Tennis Taula Intercomarcal)",
+    "TTI_MANAGER_BODY" : "The program allows managing everything related to the league:<ul><li>- Management of users, players, and teams.</li><li>- Export player and team rankings to Excel.</li><li>- View match history for a player, a team, or a match record.</li></ul>",
+    "REGISTRATION_MANAGER_TITLE" : "Registration Manager",
+    "REGISTRATION_MANAGER_BODY" : "Program to manage registrations for a Table Tennis tournament organized by my club."
+  }
+}
