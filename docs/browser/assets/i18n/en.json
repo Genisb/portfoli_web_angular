@@ -18,13 +18,17 @@
     "EXPERIENCIA":"Experience",
     "EXPERIENCIA_SOFTNEOS":"Develop/improve applications both on the frontend and backend.<br>Enhancement and maintenance of Android and iOS applications.<br>Development of websites with WordPress.",
     "EXPERIENCIA_TENNIS_TAULA":"Table Tennis Coach",
+    "EXPERIENCIA_PRACTICAS_SUPERIOR":"Web Application Development Internship",
+    "EXPERIENCIA_PRACTICAS_SUPERIOR_TEXT":"Develop websites with WordPress.<br>Implement SEO techniques to improve web positioning.<br>Develop corporate websites with HTML, CSS, JavaScript, and Bootstrap.<br>Program web applications (Frontend and Backend).",
     "DESC_EXP_TT":"Train people of all ages in this sport in an entertaining and dynamic way.",
     "AUXILIAR_ADMINISTRATIVO": "Administrative assistant in a lottery administration",
     "ATTEND_CUSTOMERS":"Attend to customers appropriately, providing them with the desired numbers/tickets.",
     "PRACTICAS_MEDIO":"Medium-level internship at the Osona Regional Council",
     "EXPERIENCIA_MEDIO":"Perform basic helpdesk tasks, prepare PCs, install monitors, and solve employees' IT problems.<br>Configure SharePoint and other Office 365 services.",
     "DESCRIPCIO_CATSKILLS":"1st place in the Web Application Development category.<br> The competition consisted of creating a web application to view tables and graphs with the status of reservoirs in Catalonia using information obtained through an API from the government.",
-    "DESCRIPCIO_SPAINSKILLS":"3rd place in the Web Development category.<br>The test consisted of developing an application to manage the census and events of the cities of a country, and a game called 'El Tranco'.<br>To complete the task, I used technologies such as Laravel 11, Angular 17, Bootstrap, and JavaScript."
+    "DESCRIPCIO_SPAINSKILLS":"3rd place in the Web Development category.<br>The test consisted of developing an application to manage the census and events of the cities of a country, and a game called 'El Tranco'.<br>To complete the task, I used technologies such as Laravel 11, Angular 17, Bootstrap, and JavaScript.",
+    "FECHA_PRIMERA":"September 2023 - Now",
+    "FECHA_SEGUNDA":"March 2023 - July 2023"
   },
   "APLICACIONES" : {
     "PROJECTS" : "Projects",

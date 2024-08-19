@@ -17,13 +17,17 @@
     "EXPERIENCIA":"Experiència",
     "EXPERIENCIA_SOFTNEOS":"Desenvolupar/millorar aplicacions tant en el frontend com en el backend.<br>Millora i manteniment d'aplicacions Android i iOS.<br>Desenvolupament de llocs web amb WordPress.",
     "EXPERIENCIA_TENNIS_TAULA":"Entrenador de Tennis Taula",
+    "EXPERIENCIA_PRACTICAS_SUPERIOR":"Pràctiques de Desenvolupament d'Aplicacions Web",
+    "EXPERIENCIA_PRACTICAS_SUPERIOR_TEXT":"Desenvolupar pàgines web amb wordpress.<br>Implementar tècniques de SEO per millorar el posicionament web.<br>Desenvolupar webs corporatives amb HTML, CSS, JavaScript i Bootstrap.<br>Programar aplicacions web (Frontend i Backend)",
     "DESC_EXP_TT":"Entrenar gent de totes les edats en aquest esport d'una manera entretinguda i dinàmica.",
     "AUXILIAR_ADMINISTRATIVO": "Assistent administratiu en una administració de loteria",
     "ATTEND_CUSTOMERS":"Atendre adequadament els clients, proporcionant-los els números/bitllets desitjats.",
     "PRACTICAS_MEDIO":"Pràctiques de grau mitjà al Consell Comarcal d'Osona",
     "EXPERIENCIA_MEDIO":"Realitzar tasques bàsiques de helpdesk, preparar PCs, instal·lar monitors i solucionar els problemes informàtics dels empleats.<br>Configurar SharePoint i altres serveis d'Office 365.",
     "DESCRIPCIO_CATSKILLS":"1r lloc en la categoria de Desenvolupament d'Aplicacions Web.<br>La competició consistia en crear una aplicació web per a visualitzar taules i gràfics amb l'estat dels embassaments a Catalunya utilitzant informació obtinguda a través d'una API del govern.",
-    "DESCRIPCIO_SPAINSKILLS":"3ra posició en la categoria de Desenvolupament Web.<br>La prova consistia en desenvolupar una aplicació web per gestionar el cens i events de les ciutats d'un país. I un joc anomenat 'El Tranco'<br>"
+    "DESCRIPCIO_SPAINSKILLS":"3ra posició en la categoria de Desenvolupament Web.<br>La prova consistia en desenvolupar una aplicació web per gestionar el cens i events de les ciutats d'un país. I un joc anomenat 'El Tranco'<br>",
+    "FECHA_PRIMERA":"Setembre 2023 - Actualment",
+    "FECHA_SEGUNDA":"Març 2023 - Juliol 2023"
   },
   "APLICACIONES" : {
     "PROJECTS" : "Projectes",
